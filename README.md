@@ -15,5 +15,6 @@ LICENCIATURA CIENCIAS BIOLOGICAS - Vespertino, Cota L10, Nota 439.19
 LICENCIATURA CIENCIAS BIOLOGICAS - Noturno, Cota L6, Nota 541.88
 LICENCIATURA CIENCIAS BIOLOGICAS - Noturno, Cota L2, Nota 554.42
 LICENCIATURA CIENCIAS BIOLOGICAS - Noturno, Cota L1, Nota 556.33
+
 Estes números são apenas indicativos e devem ser interpretados com cautela. A decisão de escolher um curso universitário envolve muitos fatores, e a nota de corte é apenas um deles.
 
